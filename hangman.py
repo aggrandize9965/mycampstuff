@@ -25,6 +25,9 @@ def main():
             print("correct, you have " + str(tries) + ' guesses remaining')
             var= word.index(guess)
             print(var)
+            for everyletter in word:
+                print 
+            
             
                
                
